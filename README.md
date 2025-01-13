@@ -15,6 +15,7 @@ Nous avons ajouté une autre méthode, en nous appuyant sur l’empreinte des b�
 
 ## Les bandes littorales
 Notre analyse se concentre sur les 5 premiers kilomètres à partir du rivage. Nous avons sectorisé ce territoire par bandes tout le long de la côte bretonne, du Mont-Saint-Michel au Pays de Retz : 100 mètres, 200 mètres, 500 mètres, 1 km, 5 km. Pour réaliser ce découpage inédit de la manière la plus précise possible, nous nous sommes appuyés sur la “limite terre-mer”, tracé officiel des côtes françaises établie par le SHOM. La “bande des 100 mètres” que nous représentons ici, et qui n’avait jamais été cartographiée à cette échelle auparavant, respecte la définition qui en est donnée par la Loi Littoral. Ce tracé n’a toutefois aucune valeur légale. Les limites précises pouvant être remises en question devant un tribunal administratif avec des relevés de terrain. Le programme conçu pour réaliser ce découpage est disponible ici et peut être réutilisé librement.
+<img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/bande_litt.png" width="1000" />
 
 ## Les permis de construire
 Nous sommes parvenus à identifier tous les permis de construire responsables de l’avancée des zones urbaines depuis 10 ans dans les 5 premiers kilomètres du littoral. 
