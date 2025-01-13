@@ -28,16 +28,16 @@ Nous avons analysé en profondeur tous les PLU du littoral breton en vigueur à 
 
 ## Les sources
 - Localisation des bâtiments : IGN, [BD Topo](https://geoservices.ign.fr/bdtopo) (millésimes 2014 et 2024).
-- Classement des communes littorales : Observatoire des territoires - ANCT
+- Classement des communes littorales : [Observatoire des territoires](https://www.observatoire-des-territoires.gouv.fr/) - ANCT
 - Contours des communes : IGN, [Admin Express](https://geoservices.ign.fr/adminexpress), décembre 2023
 - Documents d’urbanisme : [Géoportail de l’urbanisme](https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive/) et OpenDataArchives
-- Population : Insee, recensements
-- Articificialisation par communes : Cerema
-- Modèle d'occupation du sol foncier : MOS Foncier de Bretagne 
-- Permis de construire : Ministère des territoires, de l’écologie et du logement, SITADEL
-- Transactions foncières :  Cerema, Demande des Valeurs Foncières (DVF).
-- Résidences secondaires : Insee, Recensement de la population, Logements et résidences principales en 2020 et Logements et résidences principales en 2014.
-- Evolution des effectifs scolaires : Ministère de l’Education nationale : Annuaire de l'éducation 2023 / Effectifs d'élèves des écoles 2015-2019 / Effectifs d’élèves 2019-2022
-
+- Population : Insee, recensements [2014](https://www.insee.fr/fr/information/2867866) et [2020](https://www.insee.fr/fr/information/7619431).
+- Articificialisation par communes : Cerema, [Portail de l'artificialisation des sols](https://artificialisation.developpement-durable.gouv.fr/mesurer-la-consommation-despaces/analyse-donnees-consommation-espaces#paragraph--2172).
+- Modèle d'occupation du sol foncier : [MOS Foncier de Bretagne](https://geobretagne.fr/geonetwork/srv/fre/catalog.search#/metadata/b783e48b-c811-4504-900a-4b3d8e49888e) 
+- Permis de construire : Ministère des territoires, de l’écologie et du logement, [SITADEL](https://www.statistiques.developpement-durable.gouv.fr/liste-des-permis-de-construire-et-autres-autorisations-durbanisme). Versions géolocalisées par Koumoul : [logements](https://opendata.koumoul.com/datasets/sitadel-logements) et [locaux](https://opendata.koumoul.com/datasets/sitadel-locaux).
+- Transactions foncières :  Cerema, [Demande des Valeurs Foncières (DVF)](https://datafoncier.cerema.fr/donnees/autres-donnees-foncieres/dvfplus-open-data).
+- Résidences secondaires : Insee, Recensement de la population, [Logements et résidences principales en 2020](https://www.insee.fr/fr/statistiques/7631186?sommaire=7631713#consulter-sommaire) et [Logements et résidences principales en 2014](https://www.insee.fr/fr/statistiques/2867813).
+- Evolution des effectifs scolaires : Ministère de l’Education nationale : [Annuaire de l'éducation 2023](https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education/export/?disjunctive.type_etablissement&disjunctive.code_postal&disjunctive.nom_commune&disjunctive.code_departement&disjunctive.appartenance_education_prioritaire&disjunctive.libelle_academie&disjunctive.libelle_region&disjunctive.ministere_tutelle) / [Effectifs d'élèves des écoles 2015-2019](https://data.education.gouv.fr/explore/dataset/fr-en-effectifs-premier-degre/information/?disjunctive.departement&disjunctive.code_departement&disjunctive.code_postal&disjunctive.localite_acheminement) / [Effectifs d’élèves 2019-2022
+](https://data.education.gouv.fr/explore/dataset/fr-en-ecoles-effectifs-nb_classes/export/?disjunctive.rentree_scolaire&disjunctive.region_academique&disjunctive.academie&disjunctive.departement&disjunctive.commune&disjunctive.numero_ecole&disjunctive.denomination_principale&disjunctive.patronyme&disjunctive.secteur&disjunctive.code_postal&sort=tri)
 <img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/age.png" width="1000" />
 
