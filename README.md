@@ -6,7 +6,7 @@
 
 **Les données ont été traitées pour l’essentiel en langage Python. Nous avons également utilisé le logiciel libre QGIS et la librairie javascript Mapshaper. Les cartes interactives s’appuient sur la librairie MapboxGL.js. Les fonds de cartes sont issus le plus souvent de l’IGN et des contributeurs OpenStreetMap.**
 
-<img src="https://github.com/Denis-Vannier/bureaux-de-vote-2022/blob/main/IMG/Appercu_BV.png" width="1000" />
+<img src="(https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/accueil_enquete.png)" width="1000" />
 
 ## L’artificialisation
 Il y a plusieurs manières d’évaluer l’artificialisation des sols. Le Cerema (Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement) produit des indicateurs de consommation d’espaces sur son portail Mon Diagnostic Artificialisation, à partir des fichiers fonciers de l’administration fiscale (DGFIP). Un parcelle sur laquelle se trouve une construction est considérée comme artificialisée, quelque soit sa taille. Ces données sont progressivement complétées avec les cartographies très détaillées de l’occupation du sols tirées des images aériennes, l’OCS-GE, produit par l’IGN. 
