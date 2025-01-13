@@ -37,6 +37,7 @@ Nous avons analysé en profondeur tous les PLU du littoral breton en vigueur à 
 - Permis de construire : Ministère des territoires, de l’écologie et du logement, SITADEL
 - Transactions foncières :  Cerema, Demande des Valeurs Foncières (DVF).
 - Résidences secondaires : Insee, Recensement de la population, Logements et résidences principales en 2020 et Logements et résidences principales en 2014.
+- Evolution des effectifs scolaires : Ministère de l’Education nationale : Annuaire de l'éducation 2023 / Effectifs d'élèves des écoles 2015-2019 / Effectifs d’élèves 2019-2022
 
 <img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/age.png" width="1000" />
-    • Evolution des effectifs scolaires : Ministère de l’Education nationale : Annuaire de l'éducation 2023 / Effectifs d'élèves des écoles 2015-2019 / Effectifs d’élèves 2019-2022
+
