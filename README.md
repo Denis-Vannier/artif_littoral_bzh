@@ -27,15 +27,16 @@ Le zonage d’urbanisme que nous avons observé est extrait du Géoportail de l�
 Nous avons analysé en profondeur tous les PLU du littoral breton en vigueur à la date du 1er mai 2024. L’étude des règlements graphiques et écrits, comparés à l’urbanisation constatée des communes, nous a permis d’établir des listes des fragilités juridiques de ces documents d’urbanisme. Les dossiers constitués aux fins des enquêtes publiques après arrêté de ces documents et en vue de leur approbation ont été particulièrement riches d’enseignements, en ce qu’ils consignent tous les avis des Personnes Publiques associées (services de l’état, chambre d’agriculture, associations de protection de l’environnement, etc.) sur leurs potentielles irrégularités, faiblesses ou incohérences. Nous avons complété ce travail par la consultation des décisions de justice.
 
 ## Les sources
-    • Localisation des bâtiments : BD Topo (millésimes 2014 et 2024)
-    • Classement des communes littorales : Observatoire des territoires - ANCT
-    • Contours des communes : Admin Express, IGN, décembre 2023
-    • Documents d’urbanisme : Géoportail de l’urbanisme et OpenDataArchives
-    • Population : Insee, recensements
-    • Articificialisation par communes : Cerema
-    • Modèle d'occupation du sol foncier : MOS Foncier de Bretagne 
-    • Permis de construire : Ministère des territoires, de l’écologie et du logement, SITADEL
-    • Transactions foncières :  Cerema, Demande des Valeurs Foncières (DVF).
-    • Résidences secondaires : Insee, Recensement de la population, Logements et résidences principales en 2020 et Logements et résidences principales en 2014.
-    <img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/age.png" width="1000" />
+- Localisation des bâtiments : BD Topo (millésimes 2014 et 2024)
+- Classement des communes littorales : Observatoire des territoires - ANCT
+- Contours des communes : Admin Express, IGN, décembre 2023
+- Documents d’urbanisme : Géoportail de l’urbanisme et OpenDataArchives
+- Population : Insee, recensements
+- Articificialisation par communes : Cerema
+- Modèle d'occupation du sol foncier : MOS Foncier de Bretagne 
+- Permis de construire : Ministère des territoires, de l’écologie et du logement, SITADEL
+- Transactions foncières :  Cerema, Demande des Valeurs Foncières (DVF).
+- Résidences secondaires : Insee, Recensement de la population, Logements et résidences principales en 2020 et Logements et résidences principales en 2014.
+
+<img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/age.png" width="1000" />
     • Evolution des effectifs scolaires : Ministère de l’Education nationale : Annuaire de l'éducation 2023 / Effectifs d'élèves des écoles 2015-2019 / Effectifs d’élèves 2019-2022
