@@ -1,3 +1,5 @@
+<img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/morbihan.png" width="1000" />
+
 # L'artificialisation du littoral breton de 2014 à 2024
 
 **Vous trouverez ici les principaux scripts de traitement et une partie des données utilisées dans le cadre de l'enquête ["Littoral breton, la tentation du béton"](https://splann.org/enquete/littoral-breton-tentation-beton/), réalisée avec Jérémie Szpirglas et publiée par Splann! et ses partenaires (Médiapart, France3, Médiacités, Actu, RadioBreizh, ...).**
@@ -25,6 +27,7 @@ Nous avons exploité la base de données SITADEL, maintenue par le ministère de
 ## Les documents d’urbanisme
 Le zonage d’urbanisme que nous avons observé est extrait du [Géoportail de l’urbanisme](https://www.geoportail-urbanisme.gouv.fr/map/). Cette plateforme en accès libre regroupe les PLU, PLUI ou Cartes communales en vigueur, couvrant 370 communes littorales et rétro-littorales soit 88% du territoire (67 communes dépendent du RNU ou n’ont pas mis à disposition leur documenst d’urbanisme sous forme numérique).
 Nous avons analysé en profondeur tous les PLU du littoral breton en vigueur à la date du 1er mai 2024. L’étude des règlements graphiques et écrits, comparés à l’urbanisation constatée des communes, nous a permis d’établir des listes des fragilités juridiques de ces documents d’urbanisme. Les dossiers constitués aux fins des enquêtes publiques après arrêté de ces documents et en vue de leur approbation ont été particulièrement riches d’enseignements, en ce qu’ils consignent tous les avis des Personnes Publiques associées (services de l’état, chambre d’agriculture, associations de protection de l’environnement, etc.) sur leurs potentielles irrégularités, faiblesses ou incohérences. Nous avons complété ce travail par la consultation des décisions de justice.
+<img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/prix_terres.png" width="1000" />
 
 ## Les sources
 - Localisation des bâtiments : IGN, [BD Topo](https://geoservices.ign.fr/bdtopo) (millésimes 2014 et 2024).
