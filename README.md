@@ -45,3 +45,5 @@ Nous avons analysé en profondeur tous les PLU du littoral breton en vigueur à 
 ](https://data.education.gouv.fr/explore/dataset/fr-en-ecoles-effectifs-nb_classes/export/?disjunctive.rentree_scolaire&disjunctive.region_academique&disjunctive.academie&disjunctive.departement&disjunctive.commune&disjunctive.numero_ecole&disjunctive.denomination_principale&disjunctive.patronyme&disjunctive.secteur&disjunctive.code_postal&sort=tri)
 <img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/age.png" width="1000" />
 
+## « [splann !](https://splann.org/) » est un média indépendant qui se finance grâce à vos dons. Tous les articles sont accessibles gratuitement, sur son site comme sur ceux de ses partenaires (Médiapart, Médiacités, France3, Actu, Reporterre, ect...) Pollutions, corruption, atteintes aux libertés… [Financez des enquêtes d’intérêt général en Bretagne](https://splann.org/faire-un-don/). 
+<img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/splann.png" width="1000" />
