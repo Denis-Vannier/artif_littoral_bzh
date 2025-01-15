@@ -1,10 +1,10 @@
 # L'artificialisation du littoral breton de 2014 à 2024
 
-**Vous trouverez ici les scripts de traitement et une partie des données utilisées dans le cadre de l'enquête ["Littoral breton, la tentation du béton"](https://splann.org/enquete/littoral-breton-tentation-beton/), publiée par Splann! et ses partenaires (Médiapart, France3, Médiacités, RadioBreizh, ...).**
+**Vous trouverez ici les principaux scripts de traitement et une partie des données utilisées dans le cadre de l'enquête ["Littoral breton, la tentation du béton"](https://splann.org/enquete/littoral-breton-tentation-beton/), réalisée avec Jérémie Szpirglas et publiée par Splann! et ses partenaires (Médiapart, France3, Médiacités, Actu, RadioBreizh, ...).**
 
 **Nous avons mobilisé une grande diversité de sources : permis de construire, documents d’urbanisme, recensements Insee, BD Topo, transactions foncières, données brutes du Cerema… Cette approche nous permet d’offrir une vision à la fois très détaillée de l’évolution du littoral, au bâtiment près, tout en faisant ressortir des chiffres inédits sur l’ensemble du littoral breton.**
 
-**Les données ont été traitées pour l’essentiel en langage Python. Nous avons également utilisé le logiciel libre QGIS et la librairie javascript Mapshaper. Les cartes interactives s’appuient sur la librairie MapboxGL.js. Les fonds de cartes sont issus le plus souvent de l’IGN et des contributeurs OpenStreetMap.**
+**Les données ont été traitées pour l’essentiel en Python, préparées avec [QGIS](https://www.qgis.org/project/overview/), avec des recours fréquents à [Mapshaper](https://mapshaper.org/). Les cartes interactives s’appuient sur la librairie MapboxGL.js. Les fonds de cartes sont issus le plus souvent de l’IGN et des contributeurs OpenStreetMap.**
 
 <img src="https://github.com/Denis-Vannier/artif_littoral_bzh/blob/main/img/accueil_enquete.png" width="1000" />
 
